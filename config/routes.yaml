@@ -1,5 +1,0 @@
-# routes.yaml
-testYamlController:
-  path:       /foo
-  controller: testYamlController::fooAction
-  methods:    GET
