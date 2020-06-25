@@ -1,0 +1,4 @@
+testYamlController:
+  path:       /foo
+  controller: controllers\testYamlController::test
+  methods:    GET
